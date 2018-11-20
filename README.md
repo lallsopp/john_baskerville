@@ -7,3 +7,7 @@ first html page
 Baskerville 2
 
 [Baskerville 2](https://lallsopp.github.io/john_baskerville/Baskerville2.html)
+
+Baskerville 3
+
+[Baskerville 3](https://lallsopp.github.io/john_baskerville/baskerville3.html)
