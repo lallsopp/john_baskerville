@@ -1,17 +1,18 @@
-# john_baskerville
+# John Baskerville
 
-first html page
 
-[Baskerville 1](https://lallsopp.github.io/john_baskerville/baskerville1.html)
+- [Baskerville 1](https://lallsopp.github.io/john_baskerville/baskerville1.html) My first html page
 
-Baskerville 2
+- [Baskerville 2](https://lallsopp.github.io/john_baskerville/Baskerville2.html)
 
-[Baskerville 2](https://lallsopp.github.io/john_baskerville/Baskerville2.html)
+- [Baskerville 3](https://lallsopp.github.io/john_baskerville/baskerville3.html)
 
-Baskerville 3
+- [Baskerville 4](https://lallsopp.github.io/john_baskerville/baskerville4.html)
 
-[Baskerville 3](https://lallsopp.github.io/john_baskerville/baskerville3.html)
+
+
+# History of Type
 
 Homework 3
 
-[Homework 1](https://lallsopp.github.io/john_baskerville/Homework1.html)
+- [Homework 1](https://lallsopp.github.io/john_baskerville/Homework1.html)
