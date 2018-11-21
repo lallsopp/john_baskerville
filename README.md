@@ -16,5 +16,8 @@
 Homework 3
 
 - [Homework 1](https://lallsopp.github.io/john_baskerville/Homework1.html)
+<<<<<<< HEAD
 
 - [Homework 2](https://lallsopp.github.io/john_baskerville/homework2.html)
+=======
+>>>>>>> caea3505068242d47ab9c306bf4cc678d8a8a2ab
