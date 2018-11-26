@@ -19,7 +19,6 @@ Homework 3
 
 - [Homework 1](https://lallsopp.github.io/john_baskerville/Homework1.html)
 
-
 - [Homework 2](https://lallsopp.github.io/john_baskerville/homework2.html)
 
 - [Homework 3](https://lallsopp.github.io/john_baskerville/homework3.html)
