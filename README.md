@@ -9,6 +9,8 @@
 
 - [Baskerville 4](https://lallsopp.github.io/john_baskerville/baskerville4.html)
 
+- [Baskerville 5](https://lallsopp.github.io/john_baskerville/baskerville5.html)
+
 
 
 # History of Type
