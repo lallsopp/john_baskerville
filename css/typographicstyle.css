@@ -15,6 +15,7 @@ body {
     margin: auto;
     background: #fafafa;
     color: #333;
+    text-align: left;
 }
 
 /* ---------- TYPOGRAPHY --------- */
@@ -35,7 +36,7 @@ section3 { font-family: 'Arvo', serif;
 h1, h2, h3 {
     font-weight: normal;
     color: #333;
-    text-align: center
+    text-align: left
 }
 
 p, li, blockquote {
@@ -45,19 +46,22 @@ p, li, blockquote {
 
 h1 {
     font-size: 3.998em;
-    margin-top: 1em;
+    margin-top: 0em;
     margin-bottom: 0.1em;
     
 }
 
-h2 {font-size: 2.678em;
-    margin: 1em 0;
-    line-height: 1.5;
+h2 {font-size: 1.5em;
+    margin: 0.5em 0;
+    line-height: 1;
+    font-style: italic;
+    margin-bottom: 1.5em;
     
     
 }
 
-h3 {font-size: 1.999em}
+h3 {font-size: 1em;
+    margin-top: 1em; }
 
 blockquote {
     hanging-punctuation: first;
@@ -71,4 +75,27 @@ header h2 {
     color: #333;
     line-height: 1.7;
     
+}
+
+p1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1em;
+}
+
+/* ----------------- BLOCKQUOTE ----------------------- */
+
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #777;
+    font-style: italic
+}
+
+blockquote cite {
+    font-size: 0.75em;
+    font-style: italic
 }
