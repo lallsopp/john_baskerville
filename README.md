@@ -25,3 +25,5 @@ Homework 3
 - [Homework 3](https://lallsopp.github.io/john_baskerville/homework3.html)
 
 - [Homework 4](https://lallsopp.github.io/john_baskerville/homework4.html)
+
+- [Homework 5](https://lallsopp.github.io/john_baskerville/homework5.html)
