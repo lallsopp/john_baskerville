@@ -27,3 +27,5 @@ Homework 3
 - [Homework 4](https://lallsopp.github.io/john_baskerville/homework4.html)
 
 - [Homework 5](https://lallsopp.github.io/john_baskerville/homework5.html)
+
+- [Typographic](https://lallsopp.github.io/john_baskerville/typographic.html)
