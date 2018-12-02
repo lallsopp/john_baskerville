@@ -11,6 +11,7 @@
 
 - [Baskerville 5](https://lallsopp.github.io/john_baskerville/baskerville5.html)
 
+- [Baskerville 6](https://lallsopp.github.io/john_baskerville/baskerville6.html)
 
 
 # History of Type
