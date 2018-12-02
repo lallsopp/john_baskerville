@@ -113,7 +113,8 @@ blockquote {
     padding: 1em 0 4em 0;
     font-size: 1.75em;
     line-height: 1.3;
-    color: #777
+    color: #777;
+    font-family: 'Dancing Script', cursive;
 }
 
 blockquote cite {
