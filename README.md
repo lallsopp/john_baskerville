@@ -13,6 +13,7 @@
 
 - [Baskerville 6](https://lallsopp.github.io/john_baskerville/baskerville6.html)
 
+- [Baskerville 7](https://lallsopp.github.io/john_baskerville/baskerville7.html)
 
 # History of Type
 
