@@ -78,7 +78,7 @@ caption {
 }
 
 th {
-    color: #fff;
+    color: #fFF;
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
@@ -90,9 +90,10 @@ th,td {
 }
 
 table, td {
-    background: #BFBEBB;
-    border: 2px solid #fff;
+     border: 2px solid #fff;
 }
+
+tr:nth-child(even) {background-color: #f2f2f2;}
 
 /* --------- STYLING LINKS ------------ */
 
