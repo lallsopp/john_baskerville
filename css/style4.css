@@ -29,13 +29,14 @@ h1, h2, h3 {
 
 p, li, blockquote {
     margin-bottom: 1.5em;
-    line-height: 1.4
+    line-height: 1.4;  
 }
 
 h1 {
     font-size: 3.998em;
     margin-top: 1em;
     margin-bottom: 0.1em;
+    }
     
 }
 
