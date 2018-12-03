@@ -93,8 +93,9 @@ p {
 
 .dropcap{
     float: left;
-    font-size: 4.7;
-    line-height: 3em;
+    color: #000000;
+    font-size: 60px;
+    line-height: 20px;
     padding-top: 2px;
     padding-right: 1px;
     font-family: 'Libre Baskerville', serif;
