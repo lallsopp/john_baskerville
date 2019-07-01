@@ -32,3 +32,16 @@ Homework 3
 - [Homework 6](https://lallsopp.github.io/john_baskerville/homework6.html)
 
 - [Typographic](https://lallsopp.github.io/john_baskerville/typographic.html)
+
+- [Design Essay](https://lallsopp.github.io/john_baskerville/designer-essay.html)
+
+
+
+
+
+
+
+
+
+
+
